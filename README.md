@@ -165,7 +165,7 @@
 ---
 
 ## 📫 How to reach me:
-- 📧 Email: [Your Email Here]
+- 📧 Email: hirun.a.raja@gmail.com
 - 💼 LinkedIn: [Hirun Rajapaksha](https://www.linkedin.com/in/hirun-rajapaksha-7a5257390)
 - 📷 Instagram: [@thunder_rox123](https://www.instagram.com/thunder_rox123)
 - 🎮 Discord: hirunrajapaksha
