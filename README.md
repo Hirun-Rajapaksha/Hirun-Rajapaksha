@@ -33,7 +33,7 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 **Programming Languages**
+### 💻 Programming Languages
 <div align="center">
   
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,7 +45,7 @@
 
 </div>
 
-### 🌐 **Web Development**
+### 🌐 Web Development
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,7 +56,7 @@
 
 </div>
 
-### 🛠️ **Tools & Platforms**
+### 🛠️ Tools & Platforms
 <div align="center">
 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -72,11 +72,11 @@
 
 <div align="center">
 
-![Hirun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hirunrajapaksha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Hirun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hirun-Rajapaksha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hirunrajapaksha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirun-Rajapaksha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=hirunrajapaksha&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com?user=Hirun-Rajapaksha&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -98,7 +98,7 @@
 
 <div align="center">
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hirunrajapaksha&theme=react-dark&bg_color=0D1117&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hirun-Rajapaksha&theme=react-dark&bg_color=0D1117&hide_border=true)
 
 </div>
 
@@ -126,13 +126,13 @@
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals
 
-- [ ] 📱 Build a full-stack mobile application
-- [ ] 🌐 Contribute to open source projects
-- [ ] 🏆 Participate in hackathons
-- [ ] 📖 Learn new technologies and frameworks
-- [ ] 🔧 Master system design principles
+- [ ] 📱 Build a full-stack mobile application  
+- [ ] 🌐 Contribute to open source projects  
+- [ ] 🏆 Participate in hackathons  
+- [ ] 📖 Learn new technologies and frameworks  
+- [ ] 🔧 Master system design principles  
 
 ---
 
@@ -148,9 +148,9 @@
 
 <div align="center">
 
-### ⚡ **Fun Fact:** I turn coffee into code! ☕ → 💻
+### ⚡ Fun Fact: I turn coffee into code! ☕ → 💻
 
-![Visitor Count](https://komarev.com/ghpvc/?username=hirunrajapaksha&color=blueviolet&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=Hirun-Rajapaksha&color=blueviolet&style=flat-square)
 
 **Thanks for visiting my profile!** 🎉
 
@@ -160,12 +160,12 @@
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 ---
 
 ## 📫 How to reach me:
 - 📧 Email: hirun.a.raja@gmail.com
-- 💼 LinkedIn: [Hirun Rajapaksha](https://www.linkedin.com/in/hirun-rajapaksha-7a5257390)
-- 📷 Instagram: [@thunder_rox123](https://www.instagram.com/thunder_rox123)
+- 💼 LinkedIn: https://www.linkedin.com/in/hirun-rajapaksha-7a5257390
+- 📷 Instagram: https://www.instagram.com/thunder_rox123
 - 🎮 Discord: hirunrajapaksha
