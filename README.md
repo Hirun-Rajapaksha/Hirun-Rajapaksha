@@ -104,11 +104,21 @@
 
 ---
 
+
 ## 💡 Featured Projects
 
 <div align="center">
 
-🚧 **Amazing projects coming soon!** 🚧
+### 🏫 Smart Campus Management System  
+
+[![Repo](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/TharushiKarunarathne/it3030-paf-2026-smart-campus-group128)
+
+💻 Full-stack system designed to streamline campus operations and services  
+📊 Focused on efficient data handling and system integration  
+
+🚀 **Tech Stack:** Java | REST APIs | Databases | Web Technologies  
+
+👨‍💻 Developed as part of a group project at SLIIT  
 
 </div>
 
