@@ -75,14 +75,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Hirun-Rajapaksha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="Hirun's GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirun-Rajapaksha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<br><br>
-
 <img src="https://streak-stats.demolab.com?user=Hirun-Rajapaksha&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
@@ -179,9 +171,3 @@
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 ---
-
-## 📫 How to reach me:
-- 📧 Email: hirun.a.raja@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/hirun-rajapaksha-7a5257390
-- 📷 Instagram: https://www.instagram.com/thunder_rox123
-- 🎮 Discord: hirunrajapaksha
