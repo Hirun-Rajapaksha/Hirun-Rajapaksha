@@ -171,3 +171,10 @@
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 ---
+
+## 📫 How to reach me:
+
+* 📧 Email: [hirun.a.raja@gmail.com](mailto:hirun.a.raja@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/hirun-rajapaksha-7a5257390
+* 📷 Instagram: https://www.instagram.com/thunder_rox123
+* 🎮 Discord: hirunrajapaksha
