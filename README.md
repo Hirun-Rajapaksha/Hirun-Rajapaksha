@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎓 **IT Undergraduate at SLIIT**
+🎓 **DS Undergraduate at SLIIT**
 💻 **Passionate Developer** | 🗄️ **Database Enthusiast** | 🚀 **Software Craftsman**
 🌱 **Curious Learner** | 🔨 **Always Building** | 💡 **Problem Solver**
 
